@@ -11,12 +11,13 @@
 }
 
 .btn-app{
-    background-color: #134470;
+    background-color: yellow;
+    color: #031a2d ; 
 }
 
 .btn-app:hover { 
     color: #031a2d ; 
-    background-color: #2c78ba;
+    background-color: #c2cc2f;
 }
 
 #header{
